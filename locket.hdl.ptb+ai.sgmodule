@@ -1,11 +1,14 @@
-#!url=https://raw.githubusercontent.com/Dragon-no/All-In-Hehe/main/All_In_One_Hoang_Dinh_Long1.sgmodule
+#!url=https://locket-pro-backend.onrender.com/Locket.sgmodule?token=VIP-DINHLONG
 #!name=Locket Gold VIP.HDL
 #!desc=Được tổng hợp bởi Hoang Dinh Long
 #!author=Hoang Dinh Long
 #!homepage=https://module-ios.netlify.app
 #!tgchannel=https://t.me/tienich
 #!moduleUrl=https://raw.githubusercontent.com/Dragon-no/All-In/main/
-#!icon=https://module-ios.netlify.app/assets/img/shadowrocket.webp
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TestFlight.png
+#!system=ios
+#!arguments=屏蔽上传按钮:false,屏蔽选段按钮:true,屏蔽Shorts按钮:false,字幕翻译语言:off,启用调试模式:false
+#!arguments-desc=- Ẩn nút Upload (+): [true, false] (Mặc định: false để giữ nút Upload)\n- Ẩn nút chọn đoạn nhạc: [true, false]\n- Ẩn nút Shorts: [true, false]\n- Dịch phụ đề: [vi, en, off]\n- Bật Debug: [true, false]
 #!howtouse=Shadowrocket
 #Shadowrocket Configuration - All IN ONE
 
